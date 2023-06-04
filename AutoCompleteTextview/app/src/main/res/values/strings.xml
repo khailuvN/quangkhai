@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AutoCompleteTextview</string>
+
+    <string-array name="countries">
+        <item> Madagascar</item>
+        <item> Malawi</item>
+        <item> Malaysia</item>
+        <item> Maldives</item>
+        <item> Mali</item>
+    </string-array>
+</resources>
